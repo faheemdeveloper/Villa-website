@@ -1259,9 +1259,9 @@ footer div a {
   /* End Property Section */
 }
 
-/* Responsive for 346px with  */
+/* Responsive for 410px with  */
 
-@media (max-width: 346px) {
+@media (max-width: 410px) {
   .deal-btns {
     flex-wrap: wrap;
   }
